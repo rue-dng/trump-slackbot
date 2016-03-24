@@ -2,106 +2,83 @@ module.exports = [
     {
         "keywords": ["america", "usa", "united states", "the us", "jobs", "economy"],
         "messages": [
-            "When was the last time anybody saw us beating, let’s say, "
-            + "China in a trade deal? They kill us. I beat China all the time.",
+            "When was the last time anybody saw us beating, let’s say, China in a trade deal? They kill us. I beat China all the time.",
             "The U.S. has become a dumping ground for everybody else’s problems.",
-            "And our real unemployment is anywhere from 18 to 20 percent. Don't believe "
-            + "the 5.6. Don't believe it.",
-            "I will be the greatest jobs president that God ever created."
+            "And our real unemployment is anywhere from 18 to 20 percent. Don't believe the 5.6. Don't believe it.",
+            "I will be the greatest jobs president that God ever created.",
+            "The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive.",
         ]
     },
     {
         "keywords": ["debate", "republican debate", "gop", "presidential"],
         "messages": [
             "I don’t mind having a big, beautiful door on that wall — so people can come into this country [legally]",
-            "I don’t frankly have time for total political correctness. "
-            + "And to be honest you, this country doesn't have time either. "
-            + "This country is in big trouble. We don't win anymore. We lose to China. "
-            + "We lose to Mexico, both in trade and at the border. We lose to everybody.",
-            "If it weren't for me you wouldn't even be talking about illegal immigration. This was "
-            + "not a subject on anybody's mind at my announcement, except the reporters are a very dishonest lot."
+            "I don’t frankly have time for total political correctness. And to be honest you, this country doesn't have time either. This country is in big trouble. We don't win anymore. We lose to China. We lose to Mexico, both in trade and at the border. We lose to everybody.",
+            "If it weren't for me you wouldn't even be talking about illegal immigration. This was not a subject on anybody's mind at my announcement, except the reporters are a very dishonest lot.",
         ]
     },
     {
         "keywords": ["mexic", "latino", "border"],
         "messages": [
-            "When Mexico sends its people, they’re not sending their best. "
-            + "They’re sending people that have lots of problems.",
-            "I will build a great wall — and nobody builds walls better than me, "
-            + "believe me —and I’ll build them very inexpensively. I will build, "
-            + "a great, great wall on our southern border, and I will make Mexico "
-            + "pay for that wall. Mark my words.",
-            "They’re bringing drugs. They’re bringing crime. They’re rapists. "
-            + "And some, I assume, are good people.",
+            "When Mexico sends its people, they’re not sending their best. They’re sending people that have lots of problems.",
+            "I will build a great wall — and nobody builds walls better than me, believe me —and I’ll build them very inexpensively. I will build, a great, great wall on our southern border, and I will make Mexico pay for that wall. Mark my words.",
+            "They’re bringing drugs. They’re bringing crime. They’re rapists. And some, I assume, are good people.",
             "Mexico is becoming the new China!",
-            "Mexico’s totally corrupt government looks horrible with El Chapo’s"
-            + " escape—totally corrupt. U.S. paid them $3 billion."
+            "Mexico’s totally corrupt government looks horrible with El Chapo’s escape—totally corrupt. U.S. paid them $3 billion."
         ]
     },
     {
         "keywords": ["jeb", "wall", "borders", "immigra", "illegal"],
         "messages": [
             "Jeb Bush has to like the Mexican illegals because of his wife.",
-            "A nation WITHOUT BORDERS is not a nation at all. We must have a wall. "
-            + "The rule of law matters. Jeb just doesn’t get it."
+            "A nation WITHOUT BORDERS is not a nation at all. We must have a wall. The rule of law matters. Jeb just doesn’t get it.",
+            "Jeb, your brother’s administration gave us Barack Obama because it was such a disaster those last 3 months that Abraham Lincoln couldn’t get elected.",
+            "The wall will go up and Mexico will start behaving.",
         ]
     },
     {
         "keywords": ["china", "asia", "japan", "korea"],
         "messages": [
-            "When did we beat Japan at anything? They send their cars over "
-            + "here by the millions, and what do we do? When was the last time "
-            + "you saw a Chevrolet in Tokyo? It doesn't exist, folks.",
-            "I know the Chinese. I've made a lot of money with the Chinese. I understand "
-            + " the Chinese mind."
+            "When did we beat Japan at anything? They send their cars over here by the millions, and what do we do? When was the last time you saw a Chevrolet in Tokyo? It doesn't exist, folks.",
+            "I know the Chinese. I've made a lot of money with the Chinese. I understand the Chinese mind.",
         ]
     },
     {
         "keywords": ["money", "billion", "million", "dollar"],
         "messages": [
-            "That's one of the nice things. I mean, part of the beauty of me "
-            + "is that I'm very rich. So if I need $600 million, I can put $600 " 
-            + "million myself. That's a huge advantage. I must tell you, that's a " 
-            + "huge advantage over the other candidates.",
-            "Money was never a big motivation for me, except as a way to keep score."
-            + " The real excitement is playing the game."
+            "That's one of the nice things. I mean, part of the beauty of me is that I'm very rich. So if I need $600 million, I can put $600 million myself. That's a huge advantage. I must tell you, that's a huge advantage over the other candidates.",
+            "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
+            "The point is, you can never be too greedy."
         ]
     },
     {
         "keywords": ["trump", "donald", "president"],
         "messages": [
             "Do you mind if I sit back a little? Because your breath is very bad.",
-            "Sorry losers and haters, but my I.Q. is one of the highest—and you all "
-            + "know it! Please don’t feel so stupid or insecure. It’s not your fault.",
-            "As everybody knows, but the haters & losers refuse to acknowledge, I do not "
-            + "wear a “wig.” My hair may not be perfect, but it’s mine."
+            "Sorry losers and haters, but my I.Q. is one of the highest—and you all know it! Please don’t feel so stupid or insecure. It’s not your fault.",
+            "As everybody knows, but the haters & losers refuse to acknowledge, I do not wear a “wig.” My hair may not be perfect, but it’s mine.",
         ]
     },
     {
         "keywords": ["isis", "middle east", "iran", "iraq", "israel", "terror"],
         "messages": [
-            "I would bomb the hell out of those oilfields. I wouldn't send many "
-            + "troops because you won't need 'em by the time I'm finished.",
-            "They just built a hotel in Syria. Can you believe this? They built a hotel. "
-            + "When I have to build a hotel, I pay interest. They don't have to pay interest, "
-            + "because they took the oil that, when we left Iraq, I said we should've taken.",
-            "If Iran was a stock you should go out and buy it, cause you'll quadruple."
+            "I would bomb the hell out of those oilfields. I wouldn't send many troops because you won't need 'em by the time I'm finished.",
+            "They just built a hotel in Syria. Can you believe this? They built a hotel. When I have to build a hotel, I pay interest. They don't have to pay interest, because they took the oil that, when we left Iraq, I said we should've taken.",
+            "If Iran was a stock you should go out and buy it, cause you'll quadruple.",
+            "The other thing with the terrorists is you have to take out their families, when you get these terrorists, you have to take out their families.",
         ]
     },
     {
         "keywords": ["mccain", "john", "veterans", "army", "hero"],
         "messages": [
-            "I'm very disappointed in John McCain because the vets are horribly treated "
-            + "in this country. I'm fighting for the vets. I've done a lot for the vets.",
-            "He's not a war hero. He's a war hero because he was captured. I like people that "
-            + "weren't captured, OK, I hate to tell you."
+            "I'm very disappointed in John McCain because the vets are horribly treated in this country. I'm fighting for the vets. I've done a lot for the vets.",
+            "He's not a war hero. He's a war hero because he was captured. I like people that weren't captured, OK, I hate to tell you."
         ]
     },
     {
         "keywords": ["plan", "future", "campaign", "going", "to do"],
         "messages": [
-            "I try to learn from the past, but I plan for the future by focusing exclusively on the present."
-            + "That's where the fun is.",
+            "I try to learn from the past, but I plan for the future by focusing exclusively on the present. That's where the fun is.",
             "You have to think anyway, so why not think big?",
             "In the end, you're measured not by how much you undertake but by what you finally accomplish."
         ]
@@ -158,11 +135,9 @@ module.exports = [
         "keywords": ["republican", "republican party", "nominee", "candidate"],
         "messages":[
             "I’m talking about a lot of leverage. I want to win and we will win.",
-            "I can't say that I have to respect that person who wins. If I'm"
-            + "the nominee, I pledge I will not run as an independent.",
-            "The other candidates — they went in, they didn’t know the air conditioning didn’t work. They sweated"
-            + "like dogs. They didn’t know the room was too big because they didn’t have anybody there. How are they"
-            + "gonna beat ISIS? I don’t think it’s gonna happen."
+            "I can't say that I have to respect that person who wins. If I'm the nominee, I pledge I will not run as an independent.",
+            "The other candidates — they went in, they didn’t know the air conditioning didn’t work. They sweated like dogs. They didn’t know the room was too big because they didn’t have anybody there. How are they gonna beat ISIS? I don’t think it’s gonna happen.",
+            "I think the only difference between me and the other candidates is that I’m more honest and my women are more beautiful."
         ]
     },
     {
@@ -175,12 +150,14 @@ module.exports = [
         "keywords": ["twitter", "social"],
         "messages": [
             "My Twitter account has over 3.5 million followers. Beat that!",
+            "My Twitter has become so powerful that I can actually make my enemies tell the truth.",
         ]
     },
     {
         "keywords": ["win", "lose", "war", "battle"],
         "messages": [
-            "Sometimes by losing a battle you find a new way to win the war."
+            "Sometimes by losing a battle you find a new way to win the war.",
+            "We will have so much winning if I get elected that you may get bored with winning."
         ]
     },
     {
@@ -216,8 +193,25 @@ module.exports = [
         "messages": [
             "Everything in life is luck."
         ]
+    },
+    {
+        "keywords": ["women", "woman"],
+        "messages": [
+            "You know, it really doesn’t matter what the media write as long as you’ve got a young, and beautiful, piece of ass.",
+            "I’ve said if Ivanka weren’t my daughter, perhaps I’d be dating her."
+        ]
+    },
+    {
+        "keywords": ["finger", "fingers"],
+        "messages": [
+            "My fingers are long and beautiful, as, it has been well documented, are various other parts of my body.",
+            "Look at those hands, are they small hands? And, Marco Rubio referred to my hands: 'If they're small, something else must be small.' I guarantee you there's no problem. I guarantee.",
+        ]
+    },
+    {
+        "keywords": ["internet"],
+        "messages": [
+            "We’re losing a lot of people because of the Internet. We have to see Bill Gates and a lot of different people who really understand what’s happening and maybe, in some ways, closing that Internet up in some ways.",
+        ]
     }
 ];
-
-
-
