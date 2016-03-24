@@ -34,6 +34,7 @@ module.exports = [
             "A nation WITHOUT BORDERS is not a nation at all. We must have a wall. The rule of law matters. Jeb just doesn’t get it.",
             "Jeb, your brother’s administration gave us Barack Obama because it was such a disaster those last 3 months that Abraham Lincoln couldn’t get elected.",
             "The wall will go up and Mexico will start behaving.",
+            "We have to have a wall. We have to have a border. And in that wall we’re going to have a big fat door where people can come into the country, but they have to come in legally.",
         ]
     },
     {
@@ -57,6 +58,8 @@ module.exports = [
             "Do you mind if I sit back a little? Because your breath is very bad.",
             "Sorry losers and haters, but my I.Q. is one of the highest—and you all know it! Please don’t feel so stupid or insecure. It’s not your fault.",
             "As everybody knows, but the haters & losers refuse to acknowledge, I do not wear a “wig.” My hair may not be perfect, but it’s mine.",
+            "Did you read about Starbucks? No more 'Merry Christmas' at Starbucks. No more. Maybe we should boycott Starbucks.",
+            "I think apologizing’s a great thing, but you have to be wrong. I will absolutely apologize, sometime in the hopefully distant future, if I’m ever wrong.",
         ]
     },
     {
@@ -66,6 +69,7 @@ module.exports = [
             "They just built a hotel in Syria. Can you believe this? They built a hotel. When I have to build a hotel, I pay interest. They don't have to pay interest, because they took the oil that, when we left Iraq, I said we should've taken.",
             "If Iran was a stock you should go out and buy it, cause you'll quadruple.",
             "The other thing with the terrorists is you have to take out their families, when you get these terrorists, you have to take out their families.",
+            "I’m the worst thing that’s ever happened to ISIS.",
         ]
     },
     {
